@@ -1,4 +1,3 @@
-/* Navbar */
 .navbar {
   box-shadow: 0 5px 5px rgba(0, 0, 0, 0.18);
 }
@@ -73,11 +72,11 @@
   box-shadow: none;
 }
 
-/* Main */
+
 #titulo{
-  font-family: 'Arial', sans-serif;  /* Cambiada a 'Arial' */
-  font-size: 2.5em;  /* Ajusta este valor para hacer el texto más grande */
-  font-weight: bold;  /* Hace el texto en negrita */
+  font-family: 'Arial', sans-serif;  
+  font-size: 2.5em;  
+  font-weight: bold;  
 }
 
 
@@ -98,7 +97,7 @@
   color: white !important;
 }
 
-/* Carrito */
+
 @media (min-width: 1025px) {
   .h-custom {
     height: 100vh !important;
@@ -113,7 +112,7 @@
     margin: 0;
 }
 
-/* adminGames */
+
 @media (min-width: 992px) {
   #adminBuscararmas {
       max-width: 300px;
@@ -126,7 +125,6 @@
   }
 }
 
-/* Register */
 .was-validated .form-check-input:not(:checked) + .form-check-label {
   color: black;
 }
@@ -173,7 +171,7 @@
   box-shadow: none;
 }
 
-/* User profile */
+
 .alerta-email-copy,
 .alerta-tel-copy {
   padding: 10px;
